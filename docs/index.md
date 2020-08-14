@@ -1,4 +1,7 @@
 ---
+title: bingpot
+textdump: well this is different.
+date: 
 
 ---
 # hello
