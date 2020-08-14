@@ -5,10 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: docs/index.md
+  label: index
+  match: "**/*"
+- type: document
   path: august
   label: August
-  match: "**/*"
-  read_only: false
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
