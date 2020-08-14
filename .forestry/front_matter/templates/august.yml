@@ -1,4 +1,10 @@
 ---
 label: August
 hide_body: false
-fields: []
+fields:
+- name: gloom
+  type: text
+  config:
+    required: false
+  label: gloom
+  description: damn it's dark.
