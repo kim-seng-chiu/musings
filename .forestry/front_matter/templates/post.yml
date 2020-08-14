@@ -26,3 +26,5 @@ fields:
     schema:
       format: markdown
   label: textdump
+pages:
+- docs/index.md
