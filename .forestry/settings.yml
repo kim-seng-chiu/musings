@@ -12,11 +12,9 @@ sections:
 - type: document
   path: docs/thoughts.md
   label: thoughts
-  match: "**/*"
 - type: document
   path: docs/index.md
   label: index
-  match: "**/*"
 - type: document
   path: docs/about.md
   label: about
