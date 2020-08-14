@@ -1,5 +1,6 @@
 site_name: musings
 nav:
-    - Introduction: 'index.md'
-    - 'about.md'
-    
+    - home: 'index.md'
+    - days: 'gloom.md'
+    - 'thoughts.md'
+    - about: 'about.md'
