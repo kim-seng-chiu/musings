@@ -1,6 +1,6 @@
 ---
-label: August
-hide_body: false
+label: Post
+hide_body: true
 fields:
 - name: title
   type: text
