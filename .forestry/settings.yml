@@ -4,10 +4,22 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: docs
+  label: docs
+  create: all
+  match: "**/*"
+- type: document
+  path: docs/thoughts.md
+  label: thoughts
+  match: "**/*"
+- type: document
+  path: docs/index.md
+  label: index
+  match: "**/*"
 - type: document
   path: docs/about.md
   label: about
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
