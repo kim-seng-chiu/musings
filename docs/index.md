@@ -1,13 +1,6 @@
 ---
 title: bingpot
-textdump: well this is different.
-date: 
+textdump: well this is different. pack my box with five dozen liquor jugs.
 
+date:
 ---
-# hello
-
-pack my box with five dozen liquor jugs.
-
-here are my thoughts.
-
-{}
