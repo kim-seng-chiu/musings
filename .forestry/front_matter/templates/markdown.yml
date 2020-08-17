@@ -18,8 +18,6 @@ fields:
   label: Tags
 pages:
 - docs/Formula 1/mclaren.md
-- docs/Formula 1/mclaren.md
-- docs/about.md
 - docs/about.md
 - docs/bottom-feeder.md
-- docs/bottom-feeder.md
+- f1/mclaren.md
