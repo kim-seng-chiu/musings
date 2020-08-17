@@ -7,4 +7,5 @@ fields:
   default: []
   label: tags
 pages:
+- docs/about.md
 - docs/bottom-feeder.md
