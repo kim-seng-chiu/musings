@@ -17,5 +17,6 @@ fields:
   default: []
   label: Tags
 pages:
+- docs/Formula 1/mclaren.md
 - docs/about.md
 - docs/bottom-feeder.md
