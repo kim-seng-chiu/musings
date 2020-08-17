@@ -11,7 +11,7 @@ sections:
   path: docs/f1
   label: f1
   create: all
-  match: "/*"
+  match: "**/*"
 - type: directory
   path: docs
   label: docs
