@@ -1,11 +1,7 @@
 ---
 label: Markdown
 hide_body: true
-fields:
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
+fields: []
 pages:
 - docs/about.md
 - docs/bottom-feeder.md
