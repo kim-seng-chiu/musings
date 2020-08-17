@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+- "#test"
 title: about this page.
 sub-title: a short description
 
