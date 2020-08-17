@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: docs
+  label: docs
+  create: all
+  match: "**/*"
+- type: directory
   path: docs/f1
   label: f1
   create: all
@@ -12,11 +17,6 @@ sections:
 - type: document
   path: docs/f1/mclaren.md
   label: mclaren
-- type: directory
-  path: docs
-  label: docs
-  create: all
-  match: "**/*"
 - type: document
   path: docs/thoughts.md
   label: thoughts
