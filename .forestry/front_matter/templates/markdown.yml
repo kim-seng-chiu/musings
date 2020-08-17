@@ -2,10 +2,20 @@
 label: Markdown
 hide_body: true
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: sub-title
+  type: text
+  config:
+    required: false
+  label: Sub-title
 - name: tags
   type: tag_list
   default: []
-  label: tags
+  label: Tags
 pages:
 - docs/about.md
 - docs/bottom-feeder.md
