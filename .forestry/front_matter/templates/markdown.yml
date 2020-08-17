@@ -2,3 +2,5 @@
 label: Markdown
 hide_body: true
 fields: []
+pages:
+- docs/bottom-feeder.md
