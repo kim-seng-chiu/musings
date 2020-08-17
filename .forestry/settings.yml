@@ -5,14 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: f1/mclaren
+  path: docs/f1/mclaren
   label: mclaren
-  match: "**/*"
 - type: directory
-  path: f1
+  path: docs/f1
   label: f1
   create: all
-  match: "**/*"
+  match: "/*"
 - type: directory
   path: docs
   label: docs
