@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: docs/f1/redbull.md
+  label: redbull
+  match: "**/*"
 - type: directory
   path: docs
   label: docs
