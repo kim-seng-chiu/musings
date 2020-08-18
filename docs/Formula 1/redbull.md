@@ -1,4 +1,10 @@
 ---
+tags:
+- "#formula1"
+- "#redbullracing"
+banner_image: "/uploads/rb16_2020.jpg"
+title: Red Bull
+sub-title: RB16
 
 ---
 ## Engine
