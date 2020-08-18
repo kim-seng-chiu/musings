@@ -13,7 +13,7 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: f1
+  path: docs/f1
   label: f1
   create: all
   match: "**/*"
