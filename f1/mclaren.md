@@ -8,6 +8,7 @@ sub-title: MCL35
 
 ---
 ## Engine
+- Honda engine (GP2)
 
 ## Chassis
 
